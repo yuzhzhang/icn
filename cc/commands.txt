@@ -1,0 +1,9 @@
+sendmoc
+tcp [mesage]
+changecfg PARTIC [sym] [value]
+changecfg MAX_GLOBAL_NOTIONAL [value]
+changecfg MAX_SYMBOL_NOTIONAL [value]
+changecfg MAX_PAIR_PERCENTAGE [value]
+changecfg HEDGE_RATIO [value]
+suspend
+resume

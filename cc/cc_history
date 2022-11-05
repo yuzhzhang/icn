@@ -1,0 +1,35 @@
+help
+help tcp
+help
+changecfg HEDGE_RATIO 0.4
+changecfg PARTIC GDX 0.01
+changecfg PARTIC GDXJ 0.01
+changecfg PARTIC IWM 0.0
+changecfg HEDGE_RATIO 0.0
+changecfg HEDGE_RATIO 0.4
+changecfg PARTIC IWM 0.08
+changecfg PARTIC JNK 0.0
+changecfg PARTIC VOO 0.0
+changecfg PARTIC EFA 0.0
+changecfg PARTIC XLE 0.0
+changecfg PARTIC GLD 0.0
+changecfg PARTIC XLV 0.0
+changecfg MAX_SYMBOL_NOTIONAL 40000
+changecfg MAX_SYMBOL_NOTIONAL 50000
+changecfg PARTIC EFA 0
+changecfg PARTIC LQD 0
+changecfg PARTIC XLK 0
+changecfg PARTIC DIA 0
+changecfg PARTIC FXI 0
+changecfg PARTIC JNK 0
+changecfg PARTIC XLE 0
+changecfg PARTIC VOO 0
+changecfg PARTIC EWZ 0
+changecfg PARTIC SLV 0
+changecfg PARTIC XLV 0
+changecfg PARTIC XLU 0
+changecfg PARTIC EWZ 0.25
+changecfg PARTIC AGG 0
+changecfg HEDGE_RATIO 0.0
+changecfg HEDGE_RATIO 0.5
+changecfg HEDGE_RATIO 0.4
